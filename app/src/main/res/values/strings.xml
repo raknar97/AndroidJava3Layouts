@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">3Layouts</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="conntra">Contraseña</string>
+    <string name="LLayout">Linear Layout</string>
+    <string name="TLayout">Table Layout</string>
+    <string name="RLayout">Relative Layout</string>
+    <string name="chk1">Un checkBox</string>
+    <string name="btnLinear">Un Boton</string>
+    <string name="texto">Un texto cualquiera</string>
+</resources>
